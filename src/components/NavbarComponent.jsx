@@ -45,7 +45,7 @@ return(
               })}
             </Nav>
             <div className="text-center">
-              <button className="btn btn-outline-danher rounded-1">
+              <button className="btn btn-outline-danger rounded-1">
                 Join With Us
               </button>
             </div>
