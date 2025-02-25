@@ -2,6 +2,7 @@ import React from 'react'
 import { kelasTerbaru, dataSwiper } from '../data';
 import { Container , Row , Col} from "react-bootstrap";
 import HeroImage from "../assets/img/hero.png";
+import FaqComponent from '../components/FaqComponent';
 
 import { Swiper, SwiperSlide } from "swiper/react";
 
@@ -142,6 +143,7 @@ const HomePage = () => {
           </Row>
         </Container>
       </div>
+      <FaqComponent />
     </div>
   );
 }
