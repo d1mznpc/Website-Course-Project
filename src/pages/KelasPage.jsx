@@ -1,6 +1,7 @@
 import { Container, Row, Col } from "react-bootstrap";
 import { semuaKelas } from "../data/index";
 
+
 import FaqComponent from "../components/FaqComponent";
 
 const KelasPage = () => {

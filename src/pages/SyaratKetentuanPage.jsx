@@ -1,6 +1,7 @@
 import { Container, Row, Col } from "react-bootstrap";
 import FaqComponent from "../components/FaqComponent";
 
+
 const SyaratKetentuanPage = () => {
   return (
     <div className="syarat-ketentuan-page">
