@@ -23,7 +23,7 @@ return(
       <Navbar expand="lg" className={changedColor ? "color-active" : ""}>
         <Container>
           <Navbar.Brand href="#home" className="fs-3 fw-bold">
-            Ngoding
+            Ngoding.
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbae-nav">
